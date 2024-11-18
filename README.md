@@ -1,11 +1,5 @@
 # <p align="center"> Mini projet : Développement d’un portfolio personnel</p>
 
-### Creer par:
-
-<img src="https://github.com/user-attachments/assets/28583fd6-7822-4ec1-acb1-bca4f4616bee"  width="670">
-
-
-### <p align="center"> khalil ksontini</p>
 ## Partie I :
 ### Sprint 1 (1 semaine) : Création d’un site web en HTML.
 — Créez un dépôt Git local.
